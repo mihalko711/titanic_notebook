@@ -1,6 +1,4 @@
-data/
 .ipynb_checkpoints/
-submission
-submission.csv
-*.csv
-catboost_info/
+data/
+*submission*/
+*catboost*/
